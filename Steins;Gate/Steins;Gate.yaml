@@ -1,0 +1,77 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/VargasJuanP/Subtitles/refs/heads/main/Steins%3BGate
+    subtitles:
+      - season: 1
+        items:
+          - path: Steins%3BGate%20-%201.srt
+            episode: 1
+            delay: 0
+          - path: Steins%3BGate%20-%202.srt
+            episode: 2
+            delay: 0
+          - path: Steins%3BGate%20-%203.srt
+            episode: 3
+            delay: 0
+          - path: Steins%3BGate%20-%204.srt
+            episode: 4
+            delay: 0
+          - path: Steins%3BGate%20-%205.srt
+            episode: 5
+            delay: 0
+          - path: Steins%3BGate%20-%206.srt
+            episode: 6
+            delay: 0
+          - path: Steins%3BGate%20-%207.srt
+            episode: 7
+            delay: 0
+          - path: Steins%3BGate%20-%208.srt
+            episode: 8
+            delay: 0
+          - path: Steins%3BGate%20-%209.srt
+            episode: 9
+            delay: 0
+          - path: Steins%3BGate%20-%2010.srt
+            episode: 10
+            delay: 0
+          - path: Steins%3BGate%20-%2011.srt
+            episode: 11
+            delay: 0
+          - path: Steins%3BGate%20-%2012.srt
+            episode: 12
+            delay: 0
+          - path: Steins%3BGate%20-%2013.srt
+            episode: 13
+            delay: 0
+          - path: Steins%3BGate%20-%2014.srt
+            episode: 14
+            delay: 0
+          - path: Steins%3BGate%20-%2015.srt
+            episode: 15
+            delay: 0
+          - path: Steins%3BGate%20-%2016.srt
+            episode: 16
+            delay: 0
+          - path: Steins%3BGate%20-%2017.srt
+            episode: 17
+            delay: 0
+          - path: Steins%3BGate%20-%2018.srt
+            episode: 18
+            delay: 0
+          - path: Steins%3BGate%20-%2019.srt
+            episode: 19
+            delay: 0
+          - path: Steins%3BGate%20-%2020.srt
+            episode: 20
+            delay: 0
+          - path: Steins%3BGate%20-%2021.srt
+            episode: 21
+            delay: 0
+          - path: Steins%3BGate%20-%2022.srt
+            episode: 22
+            delay: 0
+          - path: Steins%3BGate%20-%2023.srt
+            episode: 23
+            delay: 0
+          - path: Steins%3BGate%20-%2024.srt
+            episode: 24
+            delay: 0
